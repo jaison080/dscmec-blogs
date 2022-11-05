@@ -1,4 +1,5 @@
 # dscmec-blogs
 
-```git pull```
-```docker-compose up hugoserver```
+```git pull
+   sudo docker build -t dscmec-blogs .
+   sudo docker-compose up hugoserver```
