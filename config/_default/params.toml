@@ -34,7 +34,7 @@ enableCodeCopy = true
   showDate = true
   showViews = true
   showLikes = true
-  showDateUpdated = false
+  showDateUpdated = true
   showAuthor = true
   showHero = true
   heroStyle = "basic" # valid options: basic, big, background
@@ -69,13 +69,13 @@ enableCodeCopy = true
   showTermCount = true
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyAt0Il6-A8qDzm5rnykEAzEL7Fx29eVOss"
+  authDomain = "dscmec-blogs.firebaseapp.com"
+  projectId = "dscmec-blogs"
+  storageBucket = "dscmec-blogs.appspot.com"
+  messagingSenderId = "61675977641"
+  appId = "1:61675977641:web:73289233b511d4a68262b8"
+  measurementId = "G-07RYNVBGK6"
 
 [fathomAnalytics]
   # site = "ABC12345"
