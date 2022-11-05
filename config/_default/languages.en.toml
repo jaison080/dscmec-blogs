@@ -15,8 +15,8 @@ dateFormat = "2 January 2006"
 [author]
   name = "DSC MEC"
   image = "img/logo.png"
-  headline = "I'm only human"
-  bio = "A little bit about you"
+  headline = "Helping students bridge the gap between theory and practice."
+  # bio = "A little bit about you"
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
