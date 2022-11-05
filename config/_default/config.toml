@@ -17,9 +17,9 @@ googleAnalytics = "G-07RYNVBGK6"
 
 [taxonomies]
   tag = "tags"
-  category = "categories"
+  # category = "categories"
   author = "authors"
-  series = "series"
+  # series = "series"
 
 [sitemap]
   changefreq = 'daily'
