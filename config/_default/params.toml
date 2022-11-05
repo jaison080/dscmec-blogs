@@ -21,6 +21,7 @@ enableCodeCopy = true
   showThemeAttribution = true
   showAppearanceSwitcher = true
   showScrollToTop = true
+  
 
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, custom
@@ -34,6 +35,7 @@ enableCodeCopy = true
   showDate = true
   showViews = true
   showLikes = true
+  showComments = true
   showDateUpdated = true
   showAuthor = true
   showHero = true
