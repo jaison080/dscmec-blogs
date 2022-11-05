@@ -1,0 +1,11 @@
+{
+    "name": "Jaison Dennis",
+    "image" : "/authors/jaison_dennis.jpeg",
+    "bio": "Better 3 hours soon than a minute too late.",
+    "social": [
+        { "email": "mailto:jaisondennis090@gmail.com" },
+        { "linkedin": "https://linkedin.com/in/jaison080" },
+        { "twitter": "https://twitter.com/jaisondennis080" },
+        { "github": "https://github.com/jaison080" }
+    ]
+}
