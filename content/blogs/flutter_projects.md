@@ -19,8 +19,6 @@ Power up your Flutter development
 
 Photo by [Artur Shamsutdinov](https://unsplash.com/@roketpik?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
 
-Reading a lot of code is one of the best ways to improve your development skills. The open-source project is the best place to learn about best practices, coding styles, and a lot of other topics.
-
 One of the most in-demand areas of software development is cross-platform mobile app development. Flutter is one of the most popular cross-platform mobile app development tools you can use. Today, we'll look at 7 open-source Flutter projects that can help you become a better Flutter developer.
 
 1\. inKino
