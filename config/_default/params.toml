@@ -28,8 +28,8 @@ enableCodeCopy = true
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
-  #showMoreLink = true
-  #showMoreLinkDest = "/blogs"
+  showMoreLink = true
+  showMoreLinkDest = "/blogs"
 
 [article]
   showDate = true
