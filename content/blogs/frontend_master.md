@@ -24,9 +24,6 @@ Photo by [Pankaj Patel](https://unsplash.com/@pankajpatel?utm_source=medium&utm
 Introduction
 ============
 
-Whether you're new to programming or already an experienced developer in this industry, learning new concepts and languages/frameworks is\
-mandatory to keep up with the rapid changes.
-
 Take, for example, React --- open-sourced by Facebook just a shy four years ago, it's already become the number one choice for JavaScript devs around the globe.
 
 Vue and Angular, of course, also have their legitimate follower base. And then there are Svelte and universal frameworks like Next.js or Nuxt.js. And Gatsby and Gridsome and Quasar ... and, and, and.
