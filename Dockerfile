@@ -1,4 +1,5 @@
 FROM debian:latest
+FROM node:16
 
 ENV HUGO_VERSION 0.105.0
 ENV HUGO_BINARY hugo_${HUGO_VERSION}_linux-amd64.deb
@@ -17,4 +18,4 @@ VOLUME /app
 WORKDIR /app
 
 # Start the hugo server which is made available to localhost:1313
-CMD ["hugo", "server", "--disableFastRender", "--bind=0.0.0.0"]
+CMD node index.js & hugo server --disableFastRender --bind=0.0.0.0
