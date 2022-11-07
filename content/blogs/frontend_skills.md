@@ -128,9 +128,3 @@ Being a GeekyGeek is of no use if you aren't able to convey your thoughts and id
 →One Common Language(eg. English)
 
 →Confidence in body language
-
-And there you have it! Many thanks for persisting to the end of this article! Hope you have found it helpful. you can follow me on [Medium](https://medium.com/@harsh-kashiwal) and [Twitter](https://twitter.com/harsh_kashiwal)
-
-you can support me by [buying me a coffee](https://www.buymeacoffee.com/kashiwalharsh) ☕
-
-If you like this article don't forget to give a clap(Pro tip: It's free)
