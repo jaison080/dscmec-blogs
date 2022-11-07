@@ -17,12 +17,6 @@ HTML, CSS, and JavaScript are basic coding skills but what are some skills that 
 
 ![Skills to become a pro Fronend Developer](https://miro.medium.com/max/700/1*R0QtqGJBr0_vJeO3F4Bx-w.png)
 
-Must have skills to be a PRO Frontend Developer
-
-There are different types of web developers, all of whom participate in the coding, maintaining, and analyzing the websites and significant projects worldwide.
-
-While a Backend Developer builds the infrastructure that enables a website to handle data requests and queries. A front-end developer focuses on the user environment and experience and makes all of that accessible and convenient for the users
-
 1\. Basic Coding Skills
 -----------------------
 
@@ -134,9 +128,3 @@ Being a GeekyGeek is of no use if you aren't able to convey your thoughts and id
 →One Common Language(eg. English)
 
 →Confidence in body language
-
-And there you have it! Many thanks for persisting to the end of this article! Hope you have found it helpful. you can follow me on [Medium](https://medium.com/@harsh-kashiwal) and [Twitter](https://twitter.com/harsh_kashiwal)
-
-you can support me by [buying me a coffee](https://www.buymeacoffee.com/kashiwalharsh) ☕
-
-If you like this article don't forget to give a clap(Pro tip: It's free)
