@@ -18,7 +18,7 @@ EXPOSE 1313
 WORKDIR /app
 
 RUN git clone https://github.com/dscmec/dscmec-blogs.git --recursive .
-RUN npm install
+RUN npm install -g --force nodemon
 
 # Start the hugo server which is made available to localhost:1313
-CMD nodemon index.js & hugo server --disableFastRender --bind=0.0.0.0
+CMD nodemon ./index.js & hugo server --disableFastRender --bind=0.0.0.0

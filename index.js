@@ -1,4 +1,5 @@
 const { spawn } = require("child_process");
+console.log("Starting child process");
 try {
   setInterval(() => {
     const child = spawn(`git pull --rebase origin master`, { shell: true });
