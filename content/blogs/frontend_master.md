@@ -21,17 +21,6 @@ Photo by [Pankaj Patel](https://unsplash.com/@pankajpatel?utm_source=medium&utm
 >
 > <https://bit.ly/3hd3ksY>
 
-Introduction
-============
-
-Take, for example, React --- open-sourced by Facebook just a shy four years ago, it's already become the number one choice for JavaScript devs around the globe.
-
-Vue and Angular, of course, also have their legitimate follower base. And then there are Svelte and universal frameworks like Next.js or Nuxt.js. And Gatsby and Gridsome and Quasar ... and, and, and.
-
-If you want to shine as an expert JavaScript developer, you should at least have some experience in different frameworks and libraries --- besides doing your homework with good, old JS.
-
-To help you become a front-end master, I have collected nine projects, each with a specific topic and a different JavaScript framework or library as a tech stack that you can build and add to your portfolio. Remember, nothing helps you more than actually building stuff so go ahead, sharpen your mind, and make this happen.
-
 Build a Movie-Search App Using React (With Hooks)
 =================================================
 
