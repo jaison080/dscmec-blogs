@@ -14,8 +14,11 @@ RUN dpkg -i /tmp/hugo.deb && rm /tmp/hugo.deb
 
 # Setup container to expose port and where to look for files
 EXPOSE 1313
-VOLUME /app
+
 WORKDIR /app
 
+RUN git clone https://github.com/dscmec/dscmec-blogs.git --recursive .
+RUN npm install
+
 # Start the hugo server which is made available to localhost:1313
-CMD node index.js & hugo server --disableFastRender --bind=0.0.0.0
+CMD nodemon index.js & hugo server --disableFastRender --bind=0.0.0.0
