@@ -1,5 +1,6 @@
 services:
-  hugoserver:
+  dsmec-blogs:
+    container_name: dsmec-blogs
     build:
       context: .
     ports:
