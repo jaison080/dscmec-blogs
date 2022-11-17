@@ -3,7 +3,7 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://dscmec-blogs.netlify.app/"
+baseURL = "http://dscblogs.mec.ac.in/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
