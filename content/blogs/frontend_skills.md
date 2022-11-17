@@ -71,11 +71,9 @@ As it is said a Frontend developer is the bridge between UI/UX designer and a Ba
 4\. Responsive Web Design
 -------------------------
 
-When you code a website it is very important that your website works efficiently on Mobile and Tablet. Unsurprisingly, 97 percent of the users access the Internet using mobile phones making it completely necessary to build a website with a mobile-first approach, to say the least. A Frontend Developer must be :
+When we code a website it is very important that your website works efficiently on Mobile and Tablet. Unsurprisingly, 97 percent of the users access the Internet using mobile phones making it completely necessary to build a website with a mobile-first approach, to say the least. A Frontend Developer must be :
 
-→ Well-versed with media queries
-
-→Flexbox and Grid should be your heartiest Friends
+- hope it works
 
 5\. Time management
 -------------------
