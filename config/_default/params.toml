@@ -28,7 +28,7 @@ enableCodeCopy = true
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
-  showMoreLink = true
+  showMoreLink = false
   showMoreLinkDest = "/blogs"
 
 [article]
