@@ -3,11 +3,11 @@ title: "OUR CLUB, OUR DSC"
 summary: "Introduction to DSC MEC"
 date: 2022-12-04T14:30:50+05:30
 draft: false
-tags: ["flutter", "app","tech"]
+tags: ["intro", "gdsc","dscmec"]
 showAuthor: true
 showAuthorBadges: false
 authors:
-  - "jaison_dennis"
+  - "sonah_s"
 ---
 Creativity is thinking up new things and innovation is doing new things. And when both of these go hand in hand, a new era is born. 
 

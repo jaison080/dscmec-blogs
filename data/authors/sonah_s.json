@@ -1,0 +1,12 @@
+{
+    "username":"sonah_s",
+    "name": "Sonah S Tiju",
+    "image" : "/authors/sonah_s.jpeg",
+    "bio": "",
+    "social": [
+        { "email": "mailto:jaisondennis090@gmail.com" },
+        { "linkedin": "https://linkedin.com/in/jaison080" },
+        { "twitter": "https://twitter.com/jaisondennis080" },
+        { "github": "https://github.com/jaison080" }
+    ]
+}
