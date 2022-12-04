@@ -4,7 +4,7 @@
 
 theme = "blowfish"
 baseURL = "http://dscblogs.mec.ac.in/"
-canonifyURLs = true
+canonifyURLs = false
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
