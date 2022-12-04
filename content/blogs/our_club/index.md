@@ -25,4 +25,3 @@ What makes our club different from others?
 DSC MEC helps students to put theory into practice. It is very easy to learn the theory and score in exams. But when it comes to actual execution or practice, students often tend to falter. This is where our club comes into play. We provide the best of the best resources and opportunities for our students to excel to greater heights. We conduct various events to polish their skills to the best version. Our club is open to all the students who are keen to learn and develop.
 
 ![image](https://user-images.githubusercontent.com/93505829/205483516-2df8daa1-2da5-495c-8983-3cc20f5965a2.png)
-
