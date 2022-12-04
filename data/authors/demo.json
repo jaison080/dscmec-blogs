@@ -1,0 +1,12 @@
+{
+    "username":"",
+    "name": "",
+    "image" : "<path to image>",
+    "bio": "<Bio>",
+    "social": [
+        { "email": "" },
+        { "linkedin": "" },
+        { "twitter": "" },
+        { "github": "" }
+    ]
+}
