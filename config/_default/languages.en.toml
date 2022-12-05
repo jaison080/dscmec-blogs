@@ -19,7 +19,8 @@ dateFormat = "2 January 2006"
   # bio = "A little bit about you"
   links = [
     { email = "mailto:dsc@mec.ac.in" },
-    { link = "https://gdsc.community.dev/government-model-engineering-college-thrikkakara/" },
+    { link = "http://dsc.mec.ac.in/" },
+    { google = "https://gdsc.community.dev/government-model-engineering-college-thrikkakara/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { blogger = "https://username.blogspot.com/" },
@@ -32,7 +33,6 @@ dateFormat = "2 January 2006"
     # { foursquare = "https://foursquare.com/username" },
     { github = "https://github.com/dscmec" },
     # { gitlab = "https://gitlab.com/username" },
-    # { google = "https://www.google.com/" },
     # { hashnode = "https://username.hashnode.dev" },
     { instagram = "https://www.instagram.com/dscmec/?hl=en" },
     # { keybase = "https://keybase.io/username" },
