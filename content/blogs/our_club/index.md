@@ -1,7 +1,7 @@
 ---
 title: "OUR CLUB, OUR DSC"
 summary: "Introduction to DSC MEC"
-date: 2022-12-04T14:30:50+05:30
+date: 2022-12-07T19:30:50+05:30
 draft: false
 tags: ["intro", "gdsc","dscmec"]
 showAuthor: true
