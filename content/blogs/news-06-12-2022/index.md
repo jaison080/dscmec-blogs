@@ -1,7 +1,7 @@
 ---
-title: "News - December 6 , 2022"
+title: "Tech News So Far - December 7 , 2022"
 summary: "News Series by DSC MEC"
-date: 2022-12-06T14:30:50+05:30
+date: 2022-12-07T19:35:50+05:30
 draft: false
 tags: ["technews", "news","tech"]
 showAuthor: true
