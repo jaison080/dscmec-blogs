@@ -1,0 +1,12 @@
+{
+    "username":"anakha_s_kumar",
+    "name": "Anakha S Kumar",
+    "image" : "/authors/anakha_s_kumar.jpeg",
+    "bio": "<Bio>",
+    "social": [
+        { "email": "" },
+        { "linkedin": "" },
+        { "twitter": "" },
+        { "github": "" }
+    ]
+}
