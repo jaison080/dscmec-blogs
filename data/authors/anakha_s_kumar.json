@@ -2,11 +2,9 @@
     "username":"anakha_s_kumar",
     "name": "Anakha S Kumar",
     "image" : "/authors/anakha_s_kumar.jpeg",
-    "bio": "<Bio>",
+    "bio": "Student of Computer Science and Engineering at Model Engineering College , Kochi.",
     "social": [
-        { "email": "" },
-        { "linkedin": "" },
-        { "twitter": "" },
-        { "github": "" }
+        { "linkedin": "https://www.linkedin.com/in/anakha-s-kumar-b54377251/" },
+        { "github": "https://github.com/Anakha03" }
     ]
 }
