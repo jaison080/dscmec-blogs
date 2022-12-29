@@ -4,6 +4,8 @@ summary: "News Series by DSC MEC"
 date: 2022-12-07T19:35:50+05:30
 draft: false
 tags: ["technews", "news","tech"]
+series: ["Latest Tech News"]
+series_order: 1
 showAuthor: true
 showAuthorBadges: false
 authors:
