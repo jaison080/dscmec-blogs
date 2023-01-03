@@ -1,5 +1,5 @@
 cd /app
-git pull origin pull-Test
+git pull
 hugo
 cp -r ./public/* /usr/share/nginx/html
 
