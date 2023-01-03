@@ -25,7 +25,7 @@ WORKDIR /app
 RUN apk add --no-cache hugo
 RUN apk add --no-cache git
 COPY . .
-RUN hugo && cp -r /app/public/ /usr/share/nginx/html
+RUN hugo && cp -r ./public/* /usr/share/nginx/html
 
 EXPOSE 80
 RUN (crontab -l 2>/dev/null; echo "* * * * * /app/pull.sh") | crontab -
