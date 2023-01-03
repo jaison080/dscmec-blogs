@@ -4,6 +4,8 @@ services:
     container_name: dsmec-blogs
     build:
       context: .
+    # ports:
+    #   - "1313:80"
     environment:
       - VIRTUAL_HOST=dscblogs.mec.ac.in
     restart: "always"
