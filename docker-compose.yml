@@ -4,13 +4,13 @@ services:
     container_name: dsmec-blogs
     build:
       context: .
-    ports:
-      - "1313:80"
-    # environment:
-    #   - VIRTUAL_HOST=dscblogs.mec.ac.in
-    # restart: "always"
+    # ports:
+    #   - "1313:80"
+    environment:
+      - VIRTUAL_HOST=dscblogs.mec.ac.in
+    restart: "always"
 
-# networks:
-#   default:
-#     external:
-#       name: mec
+networks:
+  default:
+    external:
+      name: mec
