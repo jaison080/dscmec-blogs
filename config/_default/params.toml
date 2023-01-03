@@ -9,7 +9,7 @@ colorScheme = "blowfish"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
 
-enableSearch = false
+enableSearch = true
 enableCodeCopy = true
 
 # mainSections = ["section1", "section2"]
@@ -35,7 +35,7 @@ enableCodeCopy = true
   showDate = true
   showViews = true
   showLikes = true
-  showComments = false
+  showComments = true
   showDateUpdated = true
   showAuthor = true
   showHero = false
@@ -55,8 +55,7 @@ enableCodeCopy = true
   showAuthorsBadges = false 
   showWordCount = true
   showSummary = true
-  # sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
-  sharingLinks =[]
+  sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
 
 [list]
   showBreadcrumbs = true
