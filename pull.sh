@@ -1,7 +1,3 @@
 cd /app
-git pull origin master
-hugo
+git pull origin production
 cp -r ./public/* /usr/share/nginx/html
-
-
- 
