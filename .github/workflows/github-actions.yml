@@ -24,5 +24,4 @@ jobs:
         git config --global user.name "jaison080"
         git add .
         git commit -m "Deploy to production"
-        git pull --rebase origin production
         git push origin master:production
