@@ -12,6 +12,10 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
+    - name: Setup Hugo
+      run: |
+        wget https://github.com/gohugoio/hugo/releases/download/v0.76.5/hugo_0.105.0_Linux-64bit.deb
+        sudo dpkg -i hugo_0.105.0_Linux-64bit.deb
     - name: Build site
       run: hugo
     - name: Deploy to production
