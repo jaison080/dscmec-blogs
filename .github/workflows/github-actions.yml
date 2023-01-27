@@ -1,0 +1,23 @@
+name: Deploy to Production
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Build site
+      run: hugo
+    - name: Deploy to production
+      run: |
+        git config --global user.email "jaisondennis080@gmail.com"
+        git config --global user.name "jaison080"
+        git add .
+        git commit -m "Automated deployment to production"
+        git push origin master:production
