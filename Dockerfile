@@ -1,5 +1,8 @@
 FROM nginx:stable-alpine
 
+WORKDIR /app
+RUN apk add --no-cache git
+
 COPY . .
 RUN  cp -r ./public/* /usr/share/nginx/html
 

@@ -14,6 +14,7 @@
       
       <guid>http://dscblogs.mec.ac.in/blogs/news-29-12-2022/</guid>
       <description>News Series by DSC MEC</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://dscblogs.mec.ac.in/blogs/news-29-12-2022/featured.png" />
     </item>
     
     <item>
@@ -23,6 +24,7 @@
       
       <guid>http://dscblogs.mec.ac.in/blogs/news-06-12-2022/</guid>
       <description>News Series by DSC MEC</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://dscblogs.mec.ac.in/blogs/news-06-12-2022/featured.png" />
     </item>
     
     <item>
@@ -32,6 +34,7 @@
       
       <guid>http://dscblogs.mec.ac.in/blogs/our_club/</guid>
       <description>Introduction to DSC MEC</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://dscblogs.mec.ac.in/blogs/our_club/featured.png" />
     </item>
     
   </channel>
