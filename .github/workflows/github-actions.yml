@@ -12,19 +12,6 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
-
-    - name: Fetch latest changes
-      run: |
-        git fetch origin
-
-    - name: Merge to production
-      if: github.ref == 'refs/heads/master'
-      run: |
-        git checkout production
-        git branch
-        git reset --hard master
-        git log
-        git diff
         
     - name: Setup Hugo
       run: |
@@ -39,6 +26,12 @@ jobs:
       
     - name: Deploy to production
       run: |
+        git config --global user.email "deployerDscMec@gmail.com"
+        git config --global user.name "deployerDscMec"
+        git fetch
+        git checkout production
+        git branch
+        git reset --hard master
         git add .
         git commit -m "Deploy to production"
         git push origin production -f
