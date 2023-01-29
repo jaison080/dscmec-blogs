@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: http://dscblogs.mec.ac.in/sitemap.xml
