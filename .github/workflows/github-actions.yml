@@ -22,7 +22,7 @@ jobs:
       run: |
         git checkout production
         git branch
-        git merge master
+        git merge master --allow-unrelated-histories
         
     - name: Setup Hugo
       run: |
