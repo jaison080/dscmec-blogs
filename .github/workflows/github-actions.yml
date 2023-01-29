@@ -13,24 +13,32 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: merge master -> production
+    - name: Fetch latest changes
       run: |
-        git pull
+        git fetch origin
+
+    - name: Merge to production
+      if: github.ref == 'refs/heads/master'
+      run: |
         git checkout production
         git merge master
-        git checkout master
+        git push origin production
+        
     - name: Setup Hugo
       run: |
         wget https://github.com/gohugoio/hugo/releases/download/v0.105.0/hugo_0.105.0_linux-amd64.deb
         sudo dpkg -i hugo_0.105.0_linux-amd64.deb
+        
     - name: Checkout Submodule
       run: git submodule update --init --recursive
+      
     - name: Build website
       run: hugo --minify
+      
     - name: Deploy to production
       run: |
         git config --global user.email "jaisondennis080@gmail.com"
         git config --global user.name "jaison080"
         git add .
         git commit -m "Deploy to production"
-        git push origin master:production -f
+        git push origin production -f
