@@ -16,7 +16,7 @@ authors:
 
 ![image](https://user-images.githubusercontent.com/93505829/209894782-0f5e786e-df7c-46ee-9045-112bd736721a.png)
 
-Tech giant Google is finally replacing Gmail’s ‘original view’ with its latest integrated redesign. The new user interface will be the default experience for Gmail as of this month and users will have no option to return to the ‘original view’.
+Tech giant Google is finally replacing Gmail’s ‘original view’ with its latest integrated redesign. The new user interface will be the default experience for Gmail as of this month and users will have no option to return to the ‘original view’.However, users will still be able to quickly change the theme, inbox type and other quick settings, announced Google in a blogpost.
 
 ## WhatsApp Communities is now available on Android, iOS and WhatsApp Web
 
