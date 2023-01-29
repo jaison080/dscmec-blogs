@@ -15,6 +15,7 @@ jobs:
 
     - name: merge master -> production
       run: |
+        git pull
         git checkout production
         git merge master
         git checkout master
