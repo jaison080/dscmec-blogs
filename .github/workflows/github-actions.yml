@@ -12,14 +12,12 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
-      
-    - name: Merge master -> production
-      uses: devmasx/merge-branch@master
-      with:
-          type: now
-          from_branch: master
-          target_branch: production
 
+    - name: merge master -> production
+      run: |
+        git checkout production
+        git merge master
+        git checkout master
     - name: Setup Hugo
       run: |
         wget https://github.com/gohugoio/hugo/releases/download/v0.105.0/hugo_0.105.0_linux-amd64.deb
