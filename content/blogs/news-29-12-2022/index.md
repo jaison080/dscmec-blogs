@@ -1,5 +1,5 @@
 ---
-title: "Tech News So Far - December 29 , 2022"
+title: "Tech News So Far LATEST - December 29 , 2022"
 summary: "News Series by DSC MEC"
 date: 2022-12-29T07:35:50+05:30
 draft: false
