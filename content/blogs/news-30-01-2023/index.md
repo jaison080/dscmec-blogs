@@ -1,5 +1,5 @@
 ---
-title: "Tech News So Far - January 31 , 2023"
+title: "Tech News So Far - January 30 , 2023"
 summary: "News Series by DSC MEC"
 date: 2023-01-30T07:35:50+05:30
 draft: false
