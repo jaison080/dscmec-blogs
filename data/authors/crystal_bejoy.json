@@ -1,0 +1,9 @@
+{
+    "username":"crystal_bejoy",
+    "name": "Crystal Bejoy",
+    "image" : "/authors/crystal_bejoy.jpg",
+    "bio": "GHC '22 Scholar | Student at Model Engineering College",
+    "social": [
+        { "linkedin": "https://www.linkedin.com/in/crystal-b-23788022a/" }
+    ]
+}
