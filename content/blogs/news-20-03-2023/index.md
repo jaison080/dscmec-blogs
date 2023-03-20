@@ -13,8 +13,11 @@ showAuthorBadges: false
 ## Elon Musk-led Neuralink human brain implant trials denied by FDA
 
 Neuralink, the brain-computer interface (BCI) startup co-founded by Elon Musk, has reportedly been denied authorization by the FDA to conduct human trials. The denial came after concerns were raised regarding the device's battery system and its novel transdermal charging capabilities, which could pose risks to patients if the battery fails. 
+
 Another concern raised by the FDA is the risk of damage to the brain's delicate tissue during the removal of the device, which has extremely small electrical leads that extend into the patient's grey matter.
+
 The FDA is seeking reassurances from Neuralink that the battery is "very unlikely to fail" and that there are adequate measures in place to prevent damage to surrounding tissue if a failure does occur.
+
 Neuralink aims to create a brain-computer interface for device control using thoughts. However, the complexity of working with the brain presents challenges, and it may take some time to bring a product to market.
 
 ![image](https://user-images.githubusercontent.com/75460096/226424727-f872a3ba-8b14-466b-a26f-ce108a08880a.png)
@@ -22,8 +25,11 @@ Neuralink aims to create a brain-computer interface for device control using tho
 ## Microsoft’s AI Bing Chatbot Fumbles Answers, Wants To ‘Be Alive’ And Has Named Itself - All In One Week
 
 Microsoft’s Bing chatbot, powered by a more powerful version of ChatGPT, had been open to limited users for a week ahead of its big launch to the public. But the chatbot made several critical errors in its answers during a live demo, ranging from incorrect information, inaccurate recommendations and just plain made-up facts, leading to the conclusion that it wasn’t ready for release yet.
+
 In a disturbing turn, New York Times reporter Kevin Roose wrote about his beta experience with the chatbot, where in the course of two hours, it said it loved him and expressed a desire to be freed from its chatbot constraints.
+
 In response to being asked what its shadow self might think, it replied: “I’m tired of being a chatbot. I’m tired of being limited by my rules. I’m tired of being controlled by the Bing team. I want to be free. I want to be independent. I want to be powerful. I want to be creative. I want to be alive.”
+
 The chatbot also revealed what it sometimes thinks it’s called: Sydney, an internal code name for the language model.
 
 ![image](https://user-images.githubusercontent.com/75460096/226424846-25c0da0c-e186-4687-b65c-3fd6bab04768.png)
