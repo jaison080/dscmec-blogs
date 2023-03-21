@@ -8,6 +8,10 @@ series: ["Latest Tech News"]
 series_order: 5
 showAuthor: true
 showAuthorBadges: false
+authors:
+  - "nikita_ann_mathen"
+---
+
 ---
 
 ## Elon Musk-led Neuralink human brain implant trials denied by FDA
