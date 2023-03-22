@@ -1,0 +1,11 @@
+{
+    "username": "nikita_ann_mathen",
+    "name": "Nikita Ann Mathen",
+    "image": "/authors/nikita_ann_mathen.jpeg",
+    "bio": "BTech CSE @ Model Engineering College| Content Lead @ Hult Prize MEC| Core member @ IEDC MEC",
+    "social": [
+      { "linkedin": "https://www.linkedin.com/in/nikita-ann-mathen-b35111230/" },
+      {"email" : "nikitaannmathen@gmail.com"},
+      {"github": "https://github.com/nikitaaann21"}
+    ]
+}
